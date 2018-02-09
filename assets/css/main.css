@@ -1,0 +1,34 @@
+/* clases reutilizables */
+body{
+	margin: 0;
+	padding: 0;
+}
+#map {
+	width: 100%;
+	height: 90vh;
+	background-color: pink;
+}
+
+button{
+	min-width: 10%;
+	height: 3em;
+	background-color: #fff;
+	color: #ffc107;
+	margin: 2.5%;
+	border-radius: 0.4em;
+}
+.barra{
+	background-color: #ffc107;
+	color: #fff;
+}
+input{
+	border: 1px solid #fff;
+	background-color: #ffc107;
+	border-radius: 0.4em;
+	color: #fff;
+	font-weight: bolder;
+	margin: 3%;
+	text-align: center;
+	padding: 1%;
+
+}
